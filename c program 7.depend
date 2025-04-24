@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1717843775 source:c:\users\user\documents\cde tut\c program 7\main.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<sstream>
+	<map>
+	<vector>
+	<string>
+	<cctype>
+	<cstdio>
+	<cstring>
+	<algorithm>
+
